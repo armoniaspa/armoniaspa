@@ -3,12 +3,14 @@ import './gallery.css'
 
 import CloseIcon from '@mui/icons-material/Close'
 
-import Img1 from './img/1.jpg'
-import Img2 from './img/2.jpg'
-import Img3 from './img/3.jpg'
-import Img4 from './img/4.jpg'
-import Img5 from './img/5.jpg'
-import Img6 from './img/6.jpg'
+import Img1 from './img/1.jpeg'
+import Img2 from './img/2.jpeg'
+import Img3 from './img/3.jpeg'
+import Img4 from './img/4.jpeg'
+import Img5 from './img/5.jpeg'
+import Img6 from './img/6.jpeg'
+import Img7 from './img/7.jpeg'
+import Img8 from './img/8.jpeg'
 
 const Gallery = () => {
 	let data = [
@@ -35,6 +37,14 @@ const Gallery = () => {
 		{
 			id: 6,
 			imgSrc: Img6
+		},
+		{
+			id: 7,
+			imgSrc: Img6
+		},
+		{
+			id: 8,
+			imgSrc: Img6
 		}
 	]
 
@@ -50,7 +60,7 @@ const Gallery = () => {
 		<>
 			<div className={model ? 'model open' : 'model'}>
 				<img src={tempimgSrc} />
-				<CloseIcon onClick={() => setModel(false)}/>
+				<CloseIcon onClick={() => setModel(false)} />
 			</div>
 			<div className="gallery">
 				{data.map((item, index) => {
