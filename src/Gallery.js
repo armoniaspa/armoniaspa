@@ -40,11 +40,11 @@ const Gallery = () => {
 		},
 		{
 			id: 7,
-			imgSrc: Img6
+			imgSrc: Img7
 		},
 		{
 			id: 8,
-			imgSrc: Img6
+			imgSrc: Img8
 		}
 	]
 
