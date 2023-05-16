@@ -6,6 +6,7 @@ function App() {
 		<>
 			<h1 style={{ textAlign: 'center' }}>Armonía Spa</h1>
 			<Gallery />
+			<h1 style={{ textAlign: 'center' }}>Armonía Spa</h1>
 		</>
 	)
 }

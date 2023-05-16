@@ -11,6 +11,9 @@ import Img5 from './img/5.jpeg'
 import Img6 from './img/6.jpeg'
 import Img7 from './img/7.jpeg'
 import Img8 from './img/8.jpeg'
+import Img9 from './img/9.jpeg'
+import Img10 from './img/10.jpeg'
+import Img11 from './img/11.jpeg'
 
 const Gallery = () => {
 	let data = [
@@ -45,6 +48,18 @@ const Gallery = () => {
 		{
 			id: 8,
 			imgSrc: Img8
+		},
+		{
+			id: 9,
+			imgSrc: Img9
+		},
+		{
+			id: 10,
+			imgSrc: Img10
+		},
+		{
+			id: 11,
+			imgSrc: Img11
 		}
 	]
 
@@ -63,7 +78,7 @@ const Gallery = () => {
 				<CloseIcon onClick={() => setModel(false)} />
 			</div>
 			<div className="gallery">
-				{data.map((item, index) => {
+				{data.map((item, index, TextoPrueba) => {
 					return (
 						<div
 							className="pics"
