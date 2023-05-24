@@ -116,14 +116,14 @@ const Gallery = () => {
 				{data.map((item, index) => {
 					return (
 						<div
-							style={{ textAlign: 'center', background: '#DBD7D6' }}
+							style={{ textAlign: 'center', background: '#F7F6F5' }}
 							className="pics"
 							key={index}
 							onClick={() => getImg(item.imgPrice)}
 						>
 							<img src={item.imgSrc} style={{ width: '100%' }} />
 							<h5 style={{ textAlign: 'center' }}>
-								Haz clic en la imagen para conocer nuestros precios...
+								Haz clic para conocer nuestros precios...
 							</h5>
 							<br />
 						</div>
