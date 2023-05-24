@@ -91,6 +91,10 @@ const Gallery = () => {
 			id: 12,
 			imgSrc: img12,
 			imgPrice: price12
+		},
+		{
+			id: 13,
+			imgSrc: img13
 		}
 	]
 
@@ -112,6 +116,7 @@ const Gallery = () => {
 				{data.map((item, index) => {
 					return (
 						<div
+							style={{ textAlign: 'center', background: '#DBD7D6' }}
 							className="pics"
 							key={index}
 							onClick={() => getImg(item.imgPrice)}
@@ -120,6 +125,7 @@ const Gallery = () => {
 							<h5 style={{ textAlign: 'center' }}>
 								Haz clic en la imagen para conocer nuestros precios...
 							</h5>
+							<br />
 						</div>
 					)
 				})}
