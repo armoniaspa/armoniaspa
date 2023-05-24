@@ -117,6 +117,9 @@ const Gallery = () => {
 							onClick={() => getImg(item.imgPrice)}
 						>
 							<img src={item.imgSrc} style={{ width: '100%' }} />
+							<h5 style={{ textAlign: 'center' }}>
+								Haz clic en la imagen para conocer nuestros precios...
+							</h5>
 						</div>
 					)
 				})}
