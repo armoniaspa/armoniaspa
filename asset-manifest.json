@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/armoniaspa/static/css/main.6da2965f.css",
-    "main.js": "/armoniaspa/static/js/main.5d78f794.js",
+    "main.js": "/armoniaspa/static/js/main.6c0dee2b.js",
     "static/js/787.ee9ab735.chunk.js": "/armoniaspa/static/js/787.ee9ab735.chunk.js",
-    "static/media/1.jpeg": "/armoniaspa/static/media/1.fafa2f79da6833497d9c.jpeg",
-    "static/media/2.jpeg": "/armoniaspa/static/media/2.6bfb124a4dbe054112d5.jpeg",
-    "static/media/3.jpeg": "/armoniaspa/static/media/3.fafa2f79da6833497d9c.jpeg",
-    "static/media/10.jpeg": "/armoniaspa/static/media/10.388243ef6e0dfce37676.jpeg",
-    "static/media/4.jpeg": "/armoniaspa/static/media/4.22262d15e268a0c4f6bd.jpeg",
-    "static/media/5.jpeg": "/armoniaspa/static/media/5.6ccb2c58188e4499c73f.jpeg",
-    "static/media/6.jpeg": "/armoniaspa/static/media/6.a58f472c2568cb8159a9.jpeg",
+    "static/media/1.jpeg": "/armoniaspa/static/media/1.d1cae5dc6d9d4da055e6.jpeg",
+    "static/media/2.jpeg": "/armoniaspa/static/media/2.b863a6b45ab49cf98d0e.jpeg",
+    "static/media/12.jpeg": "/armoniaspa/static/media/12.a6e814644c7b4fec52eb.jpeg",
+    "static/media/3.jpeg": "/armoniaspa/static/media/3.21a538cdb011330080c2.jpeg",
+    "static/media/10.jpeg": "/armoniaspa/static/media/10.371e02ab6312a9c4e75f.jpeg",
     "static/media/7.jpeg": "/armoniaspa/static/media/7.8fc40a90de68ebb010fd.jpeg",
     "static/media/8.jpeg": "/armoniaspa/static/media/8.4484b480c936df67b37a.jpeg",
-    "static/media/9.jpeg": "/armoniaspa/static/media/9.c2010dbf2b207a8ccdf5.jpeg",
-    "static/media/11.jpeg": "/armoniaspa/static/media/11.2894bb05adf12bb42b2a.jpeg",
-    "static/media/12.jpeg": "/armoniaspa/static/media/12.957f82c1f52a6d028d82.jpeg",
+    "static/media/4.jpeg": "/armoniaspa/static/media/4.22262d15e268a0c4f6bd.jpeg",
+    "static/media/6.jpeg": "/armoniaspa/static/media/6.a58f472c2568cb8159a9.jpeg",
+    "static/media/9.jpeg": "/armoniaspa/static/media/9.69130e08bc7e466eb319.jpeg",
+    "static/media/11.jpeg": "/armoniaspa/static/media/11.ec7bf7bfe20b8a414dc8.jpeg",
+    "static/media/5.jpeg": "/armoniaspa/static/media/5.6ccb2c58188e4499c73f.jpeg",
+    "static/media/13.jpeg": "/armoniaspa/static/media/13.957f82c1f52a6d028d82.jpeg",
     "index.html": "/armoniaspa/index.html",
     "main.6da2965f.css.map": "/armoniaspa/static/css/main.6da2965f.css.map",
-    "main.5d78f794.js.map": "/armoniaspa/static/js/main.5d78f794.js.map",
+    "main.6c0dee2b.js.map": "/armoniaspa/static/js/main.6c0dee2b.js.map",
     "787.ee9ab735.chunk.js.map": "/armoniaspa/static/js/787.ee9ab735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da2965f.css",
-    "static/js/main.5d78f794.js"
+    "static/js/main.6c0dee2b.js"
   ]
 }
