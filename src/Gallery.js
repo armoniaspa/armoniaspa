@@ -15,6 +15,7 @@ import img9 from './img/products/9.jpeg'
 import img10 from './img/products/10.jpeg'
 import img11 from './img/products/11.jpeg'
 import img12 from './img/products/12.jpeg'
+import img13 from './img/products/13.jpeg'
 
 import price1 from './img/prices/1.jpeg'
 import price2 from './img/prices/2.jpeg'
@@ -27,6 +28,7 @@ import price8 from './img/prices/8.jpeg'
 import price9 from './img/prices/9.jpeg'
 import price10 from './img/prices/10.jpeg'
 import price11 from './img/prices/11.jpeg'
+import price12 from './img/prices/12.jpeg'
 
 const Gallery = () => {
 	let data = [
@@ -87,7 +89,8 @@ const Gallery = () => {
 		},
 		{
 			id: 12,
-			imgSrc: img12
+			imgSrc: img12,
+			imgPrice: price12
 		}
 	]
 
