@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/armoniaspa/static/css/main.6da2965f.css",
-    "main.js": "/armoniaspa/static/js/main.977eb0d8.js",
+    "main.js": "/armoniaspa/static/js/main.41118303.js",
     "static/js/787.ee9ab735.chunk.js": "/armoniaspa/static/js/787.ee9ab735.chunk.js",
     "static/media/1.jpeg": "/armoniaspa/static/media/1.d1cae5dc6d9d4da055e6.jpeg",
     "static/media/2.jpeg": "/armoniaspa/static/media/2.b863a6b45ab49cf98d0e.jpeg",
@@ -21,11 +21,11 @@
     "static/media/16.jpeg": "/armoniaspa/static/media/16.957f82c1f52a6d028d82.jpeg",
     "index.html": "/armoniaspa/index.html",
     "main.6da2965f.css.map": "/armoniaspa/static/css/main.6da2965f.css.map",
-    "main.977eb0d8.js.map": "/armoniaspa/static/js/main.977eb0d8.js.map",
+    "main.41118303.js.map": "/armoniaspa/static/js/main.41118303.js.map",
     "787.ee9ab735.chunk.js.map": "/armoniaspa/static/js/787.ee9ab735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da2965f.css",
-    "static/js/main.977eb0d8.js"
+    "static/js/main.41118303.js"
   ]
 }
