@@ -37,6 +37,8 @@ import price14 from './img/prices/14.jpeg'
 import price15 from './img/prices/15.jpeg'
 import price16 from './img/prices/16.jpeg'
 
+const rutadestino = ''
+
 const Gallery = () => {
 	let data = [
 		{
@@ -113,11 +115,6 @@ const Gallery = () => {
 			id: 15,
 			imgSrc: img15,
 			imgPrice: price15
-		},
-		{
-			id: 16,
-			imgSrc: img16,
-			imgPrice: price16
 		}
 	]
 
@@ -145,6 +142,7 @@ const Gallery = () => {
 							onClick={() => getImg(item.imgPrice)}
 						>
 							<img src={item.imgSrc} style={{ width: '100%' }} />
+
 							<h5 style={{ textAlign: 'center' }}>
 								Haz clic para conocer nuestros precios...
 							</h5>
@@ -152,6 +150,11 @@ const Gallery = () => {
 						</div>
 					)
 				})}
+			</div>
+			<div>
+				<a href="https://api.whatsapp.com/send?phone=3195065174">
+					<img src={img16} style={{ width: '100%' }} />
+				</a>
 			</div>
 		</>
 	)
