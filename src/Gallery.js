@@ -19,6 +19,7 @@ import img13 from './img/products/13.jpeg'
 import img14 from './img/products/14.jpeg'
 import img15 from './img/products/15.jpeg'
 import img16 from './img/products/16.jpeg'
+import img16 from './img/products/17.jpeg'
 
 import price1 from './img/prices/1.jpeg'
 import price2 from './img/prices/2.jpeg'
@@ -36,6 +37,7 @@ import price13 from './img/prices/13.jpeg'
 import price14 from './img/prices/14.jpeg'
 import price15 from './img/prices/15.jpeg'
 import price16 from './img/prices/16.jpeg'
+import price16 from './img/prices/17.jpeg'
 
 const rutadestino = ''
 
@@ -115,6 +117,11 @@ const Gallery = () => {
 			id: 15,
 			imgSrc: img15,
 			imgPrice: price15
+		},
+		{
+			id: 16,
+			imgSrc: img16,
+			imgPrice: price16
 		}
 	]
 
@@ -153,7 +160,7 @@ const Gallery = () => {
 			</div>
 			<div>
 				<a href="https://api.whatsapp.com/send?phone=3195065174">
-					<img src={img16} style={{ width: '100%' }} />
+					<img src={img17} style={{ width: '100%' }} />
 				</a>
 			</div>
 		</>
