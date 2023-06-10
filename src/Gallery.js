@@ -19,7 +19,7 @@ import img13 from './img/products/13.jpeg'
 import img14 from './img/products/14.jpeg'
 import img15 from './img/products/15.jpeg'
 import img16 from './img/products/16.jpeg'
-import img16 from './img/products/17.jpeg'
+import img17 from './img/products/17.jpeg'
 
 import price1 from './img/prices/1.jpeg'
 import price2 from './img/prices/2.jpeg'
