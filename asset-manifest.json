@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/armoniaspa/static/css/main.6da2965f.css",
-    "main.js": "/armoniaspa/static/js/main.41118303.js",
+    "main.js": "/armoniaspa/static/js/main.81f97e70.js",
     "static/js/787.ee9ab735.chunk.js": "/armoniaspa/static/js/787.ee9ab735.chunk.js",
     "static/media/1.jpeg": "/armoniaspa/static/media/1.d1cae5dc6d9d4da055e6.jpeg",
     "static/media/2.jpeg": "/armoniaspa/static/media/2.b863a6b45ab49cf98d0e.jpeg",
     "static/media/14.jpeg": "/armoniaspa/static/media/14.0e9fd4ebf76393b9fa17.jpeg",
     "static/media/12.jpeg": "/armoniaspa/static/media/12.a6e814644c7b4fec52eb.jpeg",
+    "static/media/16.jpeg": "/armoniaspa/static/media/16.4c69c690096bd9184555.jpeg",
     "static/media/3.jpeg": "/armoniaspa/static/media/3.21a538cdb011330080c2.jpeg",
     "static/media/10.jpeg": "/armoniaspa/static/media/10.371e02ab6312a9c4e75f.jpeg",
     "static/media/15.jpeg": "/armoniaspa/static/media/15.f5ea90e58b7c5693887f.jpeg",
@@ -18,14 +19,14 @@
     "static/media/11.jpeg": "/armoniaspa/static/media/11.ec7bf7bfe20b8a414dc8.jpeg",
     "static/media/13.jpeg": "/armoniaspa/static/media/13.45b339551aa8769b65ca.jpeg",
     "static/media/4.jpeg": "/armoniaspa/static/media/4.22262d15e268a0c4f6bd.jpeg",
-    "static/media/16.jpeg": "/armoniaspa/static/media/16.957f82c1f52a6d028d82.jpeg",
+    "static/media/17.jpeg": "/armoniaspa/static/media/17.957f82c1f52a6d028d82.jpeg",
     "index.html": "/armoniaspa/index.html",
     "main.6da2965f.css.map": "/armoniaspa/static/css/main.6da2965f.css.map",
-    "main.41118303.js.map": "/armoniaspa/static/js/main.41118303.js.map",
+    "main.81f97e70.js.map": "/armoniaspa/static/js/main.81f97e70.js.map",
     "787.ee9ab735.chunk.js.map": "/armoniaspa/static/js/787.ee9ab735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6da2965f.css",
-    "static/js/main.41118303.js"
+    "static/js/main.81f97e70.js"
   ]
 }
