@@ -37,7 +37,7 @@ import price13 from './img/prices/13.jpeg'
 import price14 from './img/prices/14.jpeg'
 import price15 from './img/prices/15.jpeg'
 import price16 from './img/prices/16.jpeg'
-import price16 from './img/prices/17.jpeg'
+import price17 from './img/prices/17.jpeg'
 
 const rutadestino = ''
 
